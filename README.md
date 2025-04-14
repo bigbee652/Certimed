@@ -10,7 +10,7 @@
 
 ## 📌 Overview
 
-**MedDev** is a smart contract written in [Clarity](https://docs.stacks.co/docs/write-smart-contracts/clarity-language) that enables **transparent tracking** of medical devices from manufacturing to maintenance. It also facilitates **auditable certification management** by approved regulatory authorities such as FDA, CE, and ISO.
+**Certimed** is a smart contract written in [Clarity](https://docs.stacks.co/docs/write-smart-contracts/clarity-language) that enables **transparent tracking** of medical devices from manufacturing to maintenance. It also facilitates **auditable certification management** by approved regulatory authorities such as FDA, CE, and ISO.
 
 The contract enforces strict validation rules, ensures only authorized entities can register or certify devices, and offers complete visibility into the device lifecycle history and certifications.
 
